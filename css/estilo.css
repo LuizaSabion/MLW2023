@@ -1,0 +1,34 @@
+.tamanho {
+    font-size: 50px;
+}
+#coramarela {
+    background-color: yellow;
+}
+.corvermelha, h2 {
+   background-color: rgb(0, 13, 255);
+    color: white;
+}
+ol li a{
+    font-size: 20px;
+}
+div p strong a {
+    font-size: 20px;
+}
+p.destaque {
+    background-color: aqua;
+}
+
+div#cabecalho h1{ 
+    background-color: blueviolet;
+}
+
+#conteudo ul li a {
+    background-color: rgb(226, 43, 43);
+ }
+#conteudo p.destaque Strong { 
+    font-size: 50px;
+}
+.mensagem.destaque { 
+    background-color: brown;
+    font-size: 30px;
+}
